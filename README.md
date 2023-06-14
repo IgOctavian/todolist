@@ -1,7 +1,7 @@
 # Important!
 This project uses json-server
-to install json-server use: npm install -g json-server
-then use : npx json-server --watch db.json 
+to install json-server use: `npm install -g json-server`
+then use : npx json-server `--watch db.json` 
 
 
 # Todo
